@@ -47,6 +47,7 @@ selected_movie_name = st.selectbox(label="Movie", options=movies_list)
 
 
 #Button
+st.divider()
 if st.button("Recommend"):
 
     recommended_movies, recommended_movie_posters = recommend(selected_movie_name)
