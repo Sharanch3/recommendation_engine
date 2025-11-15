@@ -1,10 +1,4 @@
-Here is a **cleaner, beautifully formatted, GitHub-ready version** of your section.
-Just copy–paste into your README:
-
----
-
 ## 🚀 Project Overview
-
 The goal of this system is to analyze both **textual** and **categorical** movie metadata to understand how similar films are to each other—and then recommend the closest matches.
 This is achieved through **feature engineering**, **NLP-based vectorization**, and **cosine similarity** computed over **high-dimensional vectors**.
 
@@ -67,5 +61,6 @@ To ensure performance on thousands of movies, the system uses:
 * **Elimination of redundant computation**
 
 ---
+
 
 
